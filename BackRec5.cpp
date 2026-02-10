@@ -10,7 +10,7 @@ int main(){
     ofstream fout("output.txt");
 
     int N,Z;
-    fin>>N,Z;
+    fin>>N>>Z;
 
     vector<int> wes(N),cen(N);
     for (int i=0; i<N; i++) fin >> wes[i];
@@ -46,4 +46,5 @@ int main(){
 
     for (int i : veshi) fout << i << " ";
     fout << "\n" << sumWes << " " << sumCen << "\n";
+
 }
