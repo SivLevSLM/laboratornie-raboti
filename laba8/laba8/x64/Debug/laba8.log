@@ -1,0 +1,7 @@
+﻿  BackRec5.cpp
+  HomeDyn15.cpp
+  HomeDyn3.cpp
+C:\Users\sivov\Desktop\laba8\HomeDyn3.cpp(11,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  laba8.vcxproj -> C:\Users\sivov\Desktop\laba8\x64\Debug\laba8.exe
